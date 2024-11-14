@@ -15,6 +15,7 @@ $user = 'mark';
 $pass = 'mark';
 $charset = 'utf8mb4';
 
+// Some stupid comment hahahahahaha
 $dsn = "mysql:host=$host;dbname=$dbname;charset=$charset";
 $options = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
